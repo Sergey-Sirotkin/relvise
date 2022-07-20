@@ -1011,15 +1011,15 @@ h6 {
 }
 
 .contacts-footer__item_phone {
-  background: url("/img/footer/01.svg") left no-repeat;
+  background: url("../img/footer/01.svg") left no-repeat;
 }
 
 .contacts-footer__item_map {
-  background: url("/img/footer/02.svg") left no-repeat;
+  background: url("../img/footer/02.svg") left no-repeat;
 }
 
 .contacts-footer__item_email {
-  background: url("/img/footer/03.svg") left no-repeat;
+  background: url("../img/footer/03.svg") left no-repeat;
 }
 
 .footer__bottom {
